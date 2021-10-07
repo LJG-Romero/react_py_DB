@@ -1,32 +1,25 @@
 {
-    "list":[
+    "destinationsList":[
         {
-            "month" : "Enero",
-            "value" : "Enero"
+            "id" : "1",
+            "img" : "../assets/Rcu1.jpeg",
+            "name" : "Rio Cuarto",
+            "time" : "00:45",
+            "acft" : "ATR 72-600"
         },
         {
-            "month" : "Febrero",
-            "value" : "Febrero"
+            "id" : "2",
+            "img" : "../assets/Vmr2.jpeg",
+            "name" : "Villa María",
+            "time" : "00:40",
+            "acft" : "ATR 72-600"
         },
         {
-            "month" : "Marzo",
-            "value" : "Marzo"
-        },
-        {
-            "month" : "Abril",
-            "value" : "Abril"
-        },
-        {
-            "month" : "Mayo",
-            "value" : "Mayo"
-        },
-        {
-            "month" : "Abril",
-            "value" : "Abril"
-        },
-        {
-            "month" : "Mayo",
-            "value" : "Mayo"
+            "id" : "3",
+            "img" : "../assets/Vdr1.jpeg",
+            "name" : "Villa Dolores",
+            "time" : "00:35",
+            "acft" : "ATR 72-600"
         }
     ]
 }
