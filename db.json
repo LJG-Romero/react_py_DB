@@ -18,33 +18,5 @@
     {
         "month" : "Mayo",
         "value" : "Mayo"
-    },
-    {
-        "month" : "Junio",
-        "value" : "Junio"
-    },
-    {
-        "month" : "Julio",
-        "value" : "Julio"
-    },
-    {
-        "month" : "Agosto",
-        "value" : "Agosto"
-    },
-    {
-        "month" : "Septiembre",
-        "value" : "Septiembre"
-    },
-    {
-        "month" : "Octubre",
-        "value" : "Octubre"
-    },
-    {
-        "month" : "Noviembre",
-        "value" : "Noviembre"
-    },
-    {
-        "month" : "Diciembre",
-        "value" : "Diciembre"
     }
 ]
