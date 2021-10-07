@@ -1,5 +1,5 @@
 {
-    "list":[
+    "list": [
         {
             "month" : "Enero",
             "value" : "Enero"
@@ -11,14 +11,6 @@
         {
             "month" : "Marzo",
             "value" : "Marzo"
-        },
-        {
-            "month" : "Abril",
-            "value" : "Abril"
-        },
-        {
-            "month" : "Mayo",
-            "value" : "Mayo"
         }
     ]
 }
