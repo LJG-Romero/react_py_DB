@@ -96,14 +96,182 @@
             "img" : "../assets/Vmr2.jpeg",
             "name" : "Villa María",
             "time" : "00:40",
-            "acft" : "ATR 72-600"
+            "acft" : "ATR 72-600",
+            "routesList" : [
+                {
+                    "id" : 1,
+                    "name" : "Rio Cuarto",
+                    "offer" : [
+                        {
+                            "id" : 1,
+                            "stock" : 72,
+                            "price" : "$1000"
+                        },
+                        {
+                            "id" : 2,
+                            "stock" : 0,
+                            "price" : "$0"
+                        },
+                        {
+                            "id" : 3,
+                            "stock" : 72,
+                            "price" : "$1000"
+                        },
+                        {
+                            "id" : 4,
+                            "stock" : 0,
+                            "price" : "$0"
+                        },
+                        {
+                            "id" : 5,
+                            "stock" : 72,
+                            "price" : "$1000"
+                        },
+                        {
+                            "id" : 6,
+                            "stock" : 0,
+                            "price" : "$0"
+                        },
+                        {
+                            "id" : 7,
+                            "stock" : 72,
+                            "price" : "$1000"
+                        }
+                    ]
+                },
+                {
+                    "id" : 2,
+                    "name" : "Villa Dolores",
+                    "offer" : [
+                        {
+                            "id" : 1,
+                            "stock" : 72,
+                            "price" : "$1500"
+                        },
+                        {
+                            "id" : 2,
+                            "stock" : 0,
+                            "price" : "$0"
+                        },
+                        {
+                            "id" : 3,
+                            "stock" : 72,
+                            "price" : "$1500"
+                        },
+                        {
+                            "id" : 4,
+                            "stock" : 0,
+                            "price" : "$0"
+                        },
+                        {
+                            "id" : 5,
+                            "stock" : 72,
+                            "price" : "$1500"
+                        },
+                        {
+                            "id" : 6,
+                            "stock" : 0,
+                            "price" : "$0"
+                        },
+                        {
+                            "id" : 7,
+                            "stock" : 72,
+                            "price" : "$1500"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id" : "3",
             "img" : "../assets/Vdr1.jpeg",
             "name" : "Villa Dolores",
             "time" : "00:35",
-            "acft" : "ATR 72-600"
+            "acft" : "ATR 72-600",
+            "routesList" : [
+                {
+                    "id" : 1,
+                    "name" : "Rio Cuarto",
+                    "offer" : [
+                        {
+                            "id" : 1,
+                            "stock" : 72,
+                            "price" : "$1500"
+                        },
+                        {
+                            "id" : 2,
+                            "stock" : 0,
+                            "price" : "$0"
+                        },
+                        {
+                            "id" : 3,
+                            "stock" : 72,
+                            "price" : "$1500"
+                        },
+                        {
+                            "id" : 4,
+                            "stock" : 0,
+                            "price" : "$0"
+                        },
+                        {
+                            "id" : 5,
+                            "stock" : 72,
+                            "price" : "$1500"
+                        },
+                        {
+                            "id" : 6,
+                            "stock" : 0,
+                            "price" : "$0"
+                        },
+                        {
+                            "id" : 7,
+                            "stock" : 72,
+                            "price" : "$1500"
+                        }
+                    ]
+                },
+                {
+                    "id" : 2,
+                    "name" : "Villa María",
+                    "offer" : [
+                        {
+                            "id" : 1,
+                            "stock" : 72,
+                            "price" : "$1500"
+                        },
+                        {
+                            "id" : 2,
+                            "stock" : 0,
+                            "price" : "$0"
+                        },
+                        {
+                            "id" : 3,
+                            "stock" : 72,
+                            "price" : "$1500"
+                        },
+                        {
+                            "id" : 4,
+                            "stock" : 0,
+                            "price" : "$0"
+                        },
+                        {
+                            "id" : 5,
+                            "stock" : 72,
+                            "price" : "$1500"
+                        },
+                        {
+                            "id" : 6,
+                            "stock" : 0,
+                            "price" : "$0"
+                        },
+                        {
+                            "id" : 7,
+                            "stock" : 72,
+                            "price" : "$1500"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
